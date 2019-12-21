@@ -3,8 +3,10 @@
 This repository contains the results obtained in a paper to be presented in PROPOR 2020.
 
 ```
-Hartmann, N. S., Paetzold, G. H. and Aluísio, S. M. (2020). A Dataset for the Evaluation of Lexical Simplification in Portuguese for Children.
- International Conference on the Computational Processing of Portuguese (PROPOR 2020). Evora, Portugal.
+Hartmann, N. S., Paetzold, G. H. and Aluísio, S. M. (2020). A Dataset for the Evaluation of
+Lexical Simplification in Portuguese for Children.
+International Conference on the Computational Processing of Portuguese (PROPOR 2020).
+Evora, Portugal.
 ```
 
 The corpora compiled in this work is available in two formats as follows.
