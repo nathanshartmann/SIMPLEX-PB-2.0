@@ -20,9 +20,9 @@ The corpora compiled in this work is are available in two formats as follows:
 
 Each line in the SIMPLEX-PB 2.0 follows the following format:
 
-<instance> <sentence> <difficult_word> <POS> <annotated_synonyms> <#annotators> <ranked_synonyms> <ranking_score> <top1_agreement> <top2_agreement> <top3_agreement> <spearman>
+> <instance> <sentence> <difficult_word> <POS> <annotated_synonyms> <#annotators> <ranked_synonyms> <ranking_score> <top1_agreement> <top2_agreement> <top3_agreement> <spearman>
   
-where
+where,
 
 * **\<instance\>** (label "instância") is the instance id.
 * **\<sentence\>** (label "sentença") is the sentence containing a difficult word for children.
