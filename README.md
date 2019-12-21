@@ -1,6 +1,6 @@
 # SIMPLEX-PB-2.0
 
-This repository contains the results obtained in a paper to be presented in PROPOR 2020.
+This repository contains the results obtained in a paper to be presented in PROPOR 2020 (https://propor.di.uevora.pt).
 
 ```
 Hartmann, N. S., Paetzold, G. H. and Aluísio, S. M. (2020). A Dataset for the Evaluation of
