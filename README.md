@@ -9,6 +9,10 @@ International Conference on the Computational Processing of Portuguese (PROPOR 2
 Evora, Portugal.
 ```
 
+This paper presents an improved version of SIMPLEX-PB, a public benchmarking dataset for LS that was subject to multiple rounds of manual annotation in order for it to accurately capture the simplification needs of underprivileged children. It addresses all limitations of the old SIMPLEX-PB: incorrectly generated synonyms for complex words, low coverage of synonyms, and the absence of reliable simplicity rankings for synonyms. 
+
+The dataset was subjected to an enhancement on the number of synonyms for its target complex words (7,31 synonyms on average), and the simplicity rankings introduced were manually provided by the target audience itself – children between 10 and 14 years of age studying in underprivileged public institutions.
+
 The corpora compiled in this work is available in two formats as follows:
 
 * [SIMPLEX 2.0.json](https://drive.google.com/open?id=16wucBik0Qk3LBdLSc7lzrjVTfmbCMKlE)
